@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535728990858",
+    "project_id": "varejoapp-eeda1",
+    "storage_bucket": "varejoapp-eeda1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535728990858:android:75f04b9a1c8d3171425b73",
+        "android_client_info": {
+          "package_name": "com.varejoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-t4-5KCJk4SSff5gGcMNSnipJAI6XCPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
