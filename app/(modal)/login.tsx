@@ -28,7 +28,7 @@ export const Login = () => {
   const goToMainFlow = async () => {
     // Login Query
   };
-//teste
+
 
 
   return (
@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     marginHorizontal: 50,
-    backgroundColor: "white",
+    backgroundColor: "blue",
     paddingTop: 20,
   },
   titleContainer: {
